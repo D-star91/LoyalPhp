@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\useremail;
 use Illuminate\Http\Request;
 
 class Homecontroller extends Controller
@@ -15,6 +16,10 @@ class Homecontroller extends Controller
             "useremail"=>"required"
         ]);
         if($validation){
+            $useremail=new useremail();
+            $useremail->username=$req->username;
+            $useremail->useremail=$req->useremail;
+            $useremail->save();
             return back()->with("success","Your email was successful.");
         }else{
             return back()->withErrors($validation);
