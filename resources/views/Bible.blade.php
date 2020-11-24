@@ -30,59 +30,59 @@
                         <div class="bible-menu1">
                           <h4 class="wow animate__animated animate__lightSpeedInLeft animate__delay-0.8s">ဓမ္မဟောင်းကျမ်း</h4>
                           <ul class="list-group list-group-horizontal-md" >
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Genesis">ကမ္ဘာဦးကျမ်း</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Exodus">ထွက်မြောက်ရာကျမ်း</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Leviticus">ဝတ်ပြုရာကျမ်း</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Numbers">တောလည်ရာကျမ်း</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Deuteronomy">တရားဟောရာကျမ်း</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Genesis">ကမ္ဘာဦးကျမ်း</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Exodus">ထွက်မြောက်ရာကျမ်း</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Leviticus">ဝတ်ပြုရာကျမ်း</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Numbers">တောလည်ရာကျမ်း</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Deuteronomy">တရားဟောရာကျမ်း</li>
                           </ul>
                           <ul class="list-group list-group-horizontal-md">
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Joshua">ယောရှုမှတ်စာ</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Judges">တရားသူကြီးမှတ်စာ</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Ruth">ရုသဝတ္ထု</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Samuel1">ဓမ္မရာဇဝင်ပဌမစောင်</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Samuel2">ဓမ္မရာဇဝင်ဒုတိယစောင်</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Joshua">ယောရှုမှတ်စာ</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Judges">တရားသူကြီးမှတ်စာ</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Ruth">ရုသဝတ္ထု</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Samuel1">ဓမ္မရာဇဝင်ပဌမစောင်</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Samuel2">ဓမ္မရာဇဝင်ဒုတိယစောင်</li>
                           </ul>
                           <ul class="list-group list-group-horizontal-md">
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Kings1">ဓမ္မရာဇဝင်တတိယစောင်</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Kings2">ဓမ္မရာဇဝင်စတုတ္ထစောင်</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Chronicles1">ရာဇဝင်ချုပ်ပဌမစောင်</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Chronicles2">ရာဇဝင်ချုပ်ဒုတိယစောင်</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Ezra">ဧဇရမှတ်စာ</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Kings1">ဓမ္မရာဇဝင်တတိယစောင်</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Kings2">ဓမ္မရာဇဝင်စတုတ္ထစောင်</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Chronicles1">ရာဇဝင်ချုပ်ပဌမစောင်</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Chronicles2">ရာဇဝင်ချုပ်ဒုတိယစောင်</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Ezra">ဧဇရမှတ်စာ</li>
                           </ul>
                           <ul class="list-group list-group-horizontal-md">
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Nehemiah">နေဟမိမှတ်စာ</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Esther">ဧသတာဝတ္ထု။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Job">ယောဘဝတ္ထု။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Psalms">ဆာလံကျမ်း။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Proverbs">သုတ္တံကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Nehemiah">နေဟမိမှတ်စာ</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Esther">ဧသတာဝတ္ထု။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Job">ယောဘဝတ္ထု။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Psalms">ဆာလံကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Proverbs">သုတ္တံကျမ်း။</li>
                           </ul>
                           <ul class="list-group list-group-horizontal-md">
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Ecclesiastes">ဒေသနာကျမ်း။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Song-of-Songs">ရှောလမုန်သီချင်း။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Isaiah">ဟေရှာယအနာဂတ္တိကျမ်း။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Jeremiah">ယေရမိအနာဂတ္တိကျမ်း။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Lamentations">ယေရမိမြည်တမ်းစကား။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Ecclesiastes">ဒေသနာကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Song-of-Songs">ရှောလမုန်သီချင်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Isaiah">ဟေရှာယအနာဂတ္တိကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Jeremiah">ယေရမိအနာဂတ္တိကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Lamentations">ယေရမိမြည်တမ်းစကား။</li>
                           </ul>
                           <ul class="list-group list-group-horizontal-md">
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Ezekiel">ယေဇကျေလအနာဂတ္တိကျမ်း။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Daniel">ဒံယေလအနာဂတ္တိကျမ်း။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Hosea">ဟောရှေအနာဂတ္တိကျမ်း။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Joel">ယောလအနာဂတ္တိကျမ်း။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Amos">အာမုတ်အနာဂတ္တိကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Ezekiel">ယေဇကျေလအနာဂတ္တိကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Daniel">ဒံယေလအနာဂတ္တိကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Hosea">ဟောရှေအနာဂတ္တိကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Joel">ယောလအနာဂတ္တိကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Amos">အာမုတ်အနာဂတ္တိကျမ်း။</li>
                           </ul>
                           <ul class="list-group list-group-horizontal-md">
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Obadiah">ဩဗဒိအနာဂတ္တိကျမ်း။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Jonah">ယောနဝတ္ထု။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Micah">မိက္ခာအနာဂတ္တိကျမ်း။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Nahum">နာဟုံအနာဂတ္တိကျမ်း။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Habakkuk">ဟဗက္ကုတ်အနာဂတ္တိကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Obadiah">ဩဗဒိအနာဂတ္တိကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Jonah">ယောနဝတ္ထု။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Micah">မိက္ခာအနာဂတ္တိကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Nahum">နာဟုံအနာဂတ္တိကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Habakkuk">ဟဗက္ကုတ်အနာဂတ္တိကျမ်း။</li>
                           </ul>
                           <ul class="list-group list-group-horizontal-md">
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Zephaniah">ဇေဖနိအနာဂတ္တိကျမ်း။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Haggai">ဟဂ္ဂဲအနာဂတ္တိကျမ်း။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Zechariah">ဇာခရိအနာဂတ္တိကျမ်း။</li>
-                            <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Malachi">မာလခိအနာဂတ္တိကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Zephaniah">ဇေဖနိအနာဂတ္တိကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Haggai">ဟဂ္ဂဲအနာဂတ္တိကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Zechariah">ဇာခရိအနာဂတ္တိကျမ်း။</li>
+                            <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Malachi">မာလခိအနာဂတ္တိကျမ်း။</li>
                           </ul>
                         </div>
                         <div class="">
@@ -90,7 +90,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="exampleModalLabel">ကမ္ဘာဦးကျမ်း</h5>
+                                  <h5 class="modal-title text-default" id="exampleModalLabel">ကမ္ဘာဦးကျမ်း</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -176,7 +176,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="exampleModalLabel">ထွက်မြောက်ရာကျမ်း</h5>
+                                  <h5 class="modal-title text-default" id="exampleModalLabel">ထွက်မြောက်ရာကျမ်း</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -248,7 +248,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="exampleModalLabel">ဝတ်ပြုရာကျမ်း</h5>
+                                  <h5 class="modal-title text-default" id="exampleModalLabel">ဝတ်ပြုရာကျမ်း</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -303,7 +303,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="exampleModalLabel">တောလည်ရာကျမ်း</h5>
+                                  <h5 class="modal-title text-default" id="exampleModalLabel">တောလည်ရာကျမ်း</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -371,7 +371,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="exampleModalLabel">တရားဟောရာကျမ်း</h5>
+                                  <h5 class="modal-title text-default" id="exampleModalLabel">တရားဟောရာကျမ်း</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -436,7 +436,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="exampleModalLabel">ယောရှုမှတ်စာ</h5>
+                                  <h5 class="modal-title text-default" id="exampleModalLabel">ယောရှုမှတ်စာ</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -487,7 +487,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="exampleModalLabel">တရားသူကြီးမှတ်စာ</h5>
+                                  <h5 class="modal-title text-default" id="exampleModalLabel">တရားသူကြီးမှတ်စာ</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -535,7 +535,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="RuthLabel">ရုသဝတ္ထု</h5>
+                                  <h5 class="modal-title text-default" id="RuthLabel">ရုသဝတ္ထု</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -558,7 +558,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="Samuel1Label">ဓမ္မရာဇဝင်ပဌမစောင်</h5>
+                                  <h5 class="modal-title text-default" id="Samuel1Label">ဓမ္မရာဇဝင်ပဌမစောင်</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -620,7 +620,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="Samuel2Label">ဓမ္မရာဇဝင်ဒုတိယစောင်</h5>
+                                  <h5 class="modal-title text-default" id="Samuel2Label">ဓမ္မရာဇဝင်ဒုတိယစောင်</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -671,7 +671,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="Kings1Label">ဓမ္မရာဇဝင်တတိယစောင်</h5>
+                                  <h5 class="modal-title text-default" id="Kings1Label">ဓမ္မရာဇဝင်တတိယစောင်</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -720,7 +720,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="Kings2Label">ဓမ္မရာဇဝင်စတုတ္ထစောင်</h5>
+                                  <h5 class="modal-title text-default" id="Kings2Label">ဓမ္မရာဇဝင်စတုတ္ထစောင်</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -772,7 +772,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="Chronicles1Label">ရာဇဝင်ချုပ်ပဌမစောင်</h5>
+                                  <h5 class="modal-title text-default" id="Chronicles1Label">ရာဇဝင်ချုပ်ပဌမစောင်</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -830,7 +830,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="Chronicles2Label">ရာဇဝင်ချုပ်ဒုတိယစောင်</h5>
+                                  <h5 class="modal-title text-default" id="Chronicles2Label">ရာဇဝင်ချုပ်ဒုတိယစောင်</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -899,7 +899,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="EzraLabel">ဧဇရမှတ်စာ</h5>
+                                  <h5 class="modal-title text-default" id="EzraLabel">ဧဇရမှတ်စာ</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -930,7 +930,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="NehemiahLabel">နေဟမိမှတ်စာ</h5>
+                                  <h5 class="modal-title text-default" id="NehemiahLabel">နေဟမိမှတ်စာ</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -966,7 +966,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="EstherLabel">ဧသတာဝတ္ထု။</h5>
+                                  <h5 class="modal-title text-default" id="EstherLabel">ဧသတာဝတ္ထု။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -996,7 +996,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="JobLabel">ယောဘဝတ္ထု။</h5>
+                                  <h5 class="modal-title text-default" id="JobLabel">ယောဘဝတ္ထု။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1073,7 +1073,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="PsalmsLabel">ဆာလံကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="PsalmsLabel">ဆာလံကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1299,7 +1299,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="ProverbsLabel">သုတ္တံကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="ProverbsLabel">သုတ္တံကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1361,7 +1361,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="EcclesiastesLabel">ဒေသနာကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="EcclesiastesLabel">ဒေသနာကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1396,7 +1396,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="Song-of-SongsLabel">ရှောလမုန်သီချင်း။</h5>
+                                  <h5 class="modal-title text-default" id="Song-of-SongsLabel">ရှောလမုန်သီချင်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1424,7 +1424,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="IsaiahLabel">ဟေရှာယအနာဂတ္တိကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="IsaiahLabel">ဟေရှာယအနာဂတ္တိကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1534,7 +1534,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="JeremiahLabel">ယေရမိအနာဂတ္တိကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="JeremiahLabel">ယေရမိအနာဂတ္တိကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1624,7 +1624,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="LamentationsLabel">ယေရမိမြည်တမ်းစကား။</h5>
+                                  <h5 class="modal-title text-default" id="LamentationsLabel">ယေရမိမြည်တမ်းစကား။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1647,7 +1647,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="EzekielLabel">ယေဇကျေလအနာဂတ္တိကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="EzekielLabel">ယေဇကျေလအနာဂတ္တိကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1731,7 +1731,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="DanielLabel">ဒံယေလအနာဂတ္တိကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="DanielLabel">ဒံယေလအနာဂတ္တိကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1765,7 +1765,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="HoseaLabel">ဟောရှေအနာဂတ္တိကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="HoseaLabel">ဟောရှေအနာဂတ္တိကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1801,7 +1801,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="JoelLabel">ယောလအနာဂတ္တိကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="JoelLabel">ယောလအနာဂတ္တိကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1822,7 +1822,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="AmosLabel">အာမုတ်အနာဂတ္တိကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="AmosLabel">အာမုတ်အနာဂတ္တိကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1851,7 +1851,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="ObadiahLabel">ဩဗဒိအနာဂတ္တိကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="ObadiahLabel">ဩဗဒိအနာဂတ္တိကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1870,7 +1870,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="JonahLabel">ယောနဝတ္ထု။</h5>
+                                  <h5 class="modal-title text-default" id="JonahLabel">ယောနဝတ္ထု။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1892,7 +1892,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="MicahLabel">မိက္ခာအနာဂတ္တိကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="MicahLabel">မိက္ခာအနာဂတ္တိကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1919,7 +1919,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="NahumLabel">နာဟုံအနာဂတ္တိကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="NahumLabel">နာဟုံအနာဂတ္တိကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1940,7 +1940,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="HabakkukLabel">ဟဗက္ကုတ်အနာဂတ္တိကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="HabakkukLabel">ဟဗက္ကုတ်အနာဂတ္တိကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1961,7 +1961,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="ZephaniahLabel">ဇေဖနိအနာဂတ္တိကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="ZephaniahLabel">ဇေဖနိအနာဂတ္တိကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -1982,7 +1982,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="MicahLabel">ဟဂ္ဂဲအနာဂတ္တိကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="MicahLabel">ဟဂ္ဂဲအနာဂတ္တိကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -2002,7 +2002,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="ZechariahLabel">ဇာခရိအနာဂတ္တိကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="ZechariahLabel">ဇာခရိအနာဂတ္တိကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -2038,7 +2038,7 @@
                             <div class="modal-dialog modal-lg">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="MalachiLabel">မာလခိအနာဂတ္တိကျမ်း။</h5>
+                                  <h5 class="modal-title text-default" id="MalachiLabel">မာလခိအနာဂတ္တိကျမ်း။</h5>
                                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
                                   </button>
@@ -2058,8 +2058,8 @@
                           </div>
                         </div>
                         <div class="mu-bi">
-                            <a href="#New-Test"><button>ဓမ္မသစ်ကျမ်း</button></a>
-                            <a href="#biblemanu"><button>မာတိကာသို့</button></a>
+                            <a href="#New-Test"><button>ဓမ္မသစ်ကျမ်း <i class="fas fa-level-down-alt ml-2"></i></button></a>
+                            <a href="#biblemanu"><button>မာတိကာ <i class="fas fa-level-up-alt ml-2"></i></button></a>
                         </div>
                     </div>
                   </div>
@@ -2072,45 +2072,45 @@
                           <div class="bible-menu2">
                               <h4 class="wow animate__animated animate__lightSpeedInLeft animate__delay-0.8s">ဓမ္မသစ်ကျမ်း</h4>
                               <ul class="list-group list-group-horizontal-md" >
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Matthew">ရှင်မဿဲခရစ်ဝင်</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Mark">ရှင်မာကုခရစ်ဝင်</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Luke">ရှင်လုကာခရစ်ဝင်</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#John">ရှင်ယောဟန်ခရစ်ဝင်</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Matthew">ရှင်မဿဲခရစ်ဝင်</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Mark">ရှင်မာကုခရစ်ဝင်</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Luke">ရှင်လုကာခရစ်ဝင်</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#John">ရှင်ယောဟန်ခရစ်ဝင်</li>
                               </ul>
                               <ul class="list-group list-group-horizontal-md">
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Acts">တမန်တော်ဝတ္ထု</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Romans">ရောမဩဝါဒစာ</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Corinthians1">ကောရိန္သုဩဝါဒစာပဌမစောင်</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Corinthians2">ကောရိန္သုဩဝါဒစာဒုတိယစောင်</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Acts">တမန်တော်ဝတ္ထု</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Romans">ရောမဩဝါဒစာ</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Corinthians1">ကောရိန္သုဩဝါဒစာပဌမစောင်</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Corinthians2">ကောရိန္သုဩဝါဒစာဒုတိယစောင်</li>
                               </ul>
                               <ul class="list-group list-group-horizontal-md">
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Galatians">ဂလာတိဩဝါဒစာ</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Ehpesians">ဧဖက်ဩဝါဒစာ</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Phillippians">ဖိလိပ္ပိဩဝါဒစာ</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Colossians">ကောလောသဲဩဝါဒစာ</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Galatians">ဂလာတိဩဝါဒစာ</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Ehpesians">ဧဖက်ဩဝါဒစာ</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Phillippians">ဖိလိပ္ပိဩဝါဒစာ</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Colossians">ကောလောသဲဩဝါဒစာ</li>
                               </ul>
                               <ul class="list-group list-group-horizontal-md">
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Thessalonians1">သက်သာလောနိတ်ဩဝါဒစာပဌမစောင်</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Thessalonians2">သက်သာလောနိတ်ဩဝါဒစာဒုတိယစောင်</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Timothy1">တိမောသေဩဝါဒစာပဌမစောင်</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Timothy2">တိမောသေဩဝါဒစာဒုတိယစာ</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Thessalonians1">သက်သာလောနိတ်ဩဝါဒစာပဌမစောင်</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Thessalonians2">သက်သာလောနိတ်ဩဝါဒစာဒုတိယစောင်</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Timothy1">တိမောသေဩဝါဒစာပဌမစောင်</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Timothy2">တိမောသေဩဝါဒစာဒုတိယစာ</li>
                               </ul>
                               <ul class="list-group list-group-horizontal-md">
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Titus">တိတုဩဝါဒစာ</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Philemon">ဖိလေမုန်ဩဝါဒစာ</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Hebrews">ဟေဗြဲဩဝါဒစာ</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#James">ယာကုပ်ဩဝါဒစာ</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Titus">တိတုဩဝါဒစာ</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Philemon">ဖိလေမုန်ဩဝါဒစာ</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Hebrews">ဟေဗြဲဩဝါဒစာ</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#James">ယာကုပ်ဩဝါဒစာ</li>
                               </ul>
                               <ul class="list-group list-group-horizontal-md">
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Peter1">ရှင်ပေတရုဩဝါဒစာပဌမစောင်</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Peter2">ရှင်ပေတရုဩဝါဒစာဒုတိယစောင်</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#John1">ရှင်ယောဟန်ဩဝါဒစာပဌမစောင်</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#John2">ရှင်ယောဟန်ဩဝါဒစာဒုတိယစောင်</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Peter1">ရှင်ပေတရုဩဝါဒစာပဌမစောင်</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Peter2">ရှင်ပေတရုဩဝါဒစာဒုတိယစောင်</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#John1">ရှင်ယောဟန်ဩဝါဒစာပဌမစောင်</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#John2">ရှင်ယောဟန်ဩဝါဒစာဒုတိယစောင်</li>
                               </ul>
                               <ul class="list-group list-group-horizontal-md">
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#John3">ရှင်ယောဟန်ဩဝါဒစာတတိယစောင်</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Jude">ရှင်ယုဒဩဝါဒစာ</li>
-                                <li type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#Revelation">ဗျာဒိတ်ကျမ်း</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#John3">ရှင်ယောဟန်ဩဝါဒစာတတိယစောင်</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Jude">ရှင်ယုဒဩဝါဒစာ</li>
+                                <li type="button" class="btn-menu text-center pt-2" data-toggle="modal" data-target="#Revelation">ဗျာဒိတ်ကျမ်း</li>
                               </ul>
                           </div>
                           <div class="">
@@ -2118,7 +2118,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="MatthewLabel">ရှင်မဿဲခရစ်ဝင်</h5>
+                                    <h5 class="modal-title text-default" id="MatthewLabel">ရှင်မဿဲခရစ်ဝင်</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2174,7 +2174,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="MarkLabel">ရှင်မာကုခရစ်ဝင်</h5>
+                                    <h5 class="modal-title text-default" id="MarkLabel">ရှင်မာကုခရစ်ဝင်</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2215,7 +2215,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="LukeLabel">ရှင်လုကာခရစ်ဝင်/h5>
+                                    <h5 class="modal-title text-default" id="LukeLabel">ရှင်လုကာခရစ်ဝင်/h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2265,7 +2265,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="JohnLabel">ရှင်ယောဟန်ခရစ်ဝင်</h5>
+                                    <h5 class="modal-title text-default" id="JohnLabel">ရှင်ယောဟန်ခရစ်ဝင်</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2312,7 +2312,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="ActsLabel">တမန်တော်ဝတ္ထု</h5>
+                                    <h5 class="modal-title text-default" id="ActsLabel">တမန်တော်ဝတ္ထု</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2368,7 +2368,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="RomansLabel">ရောမဩဝါဒစာ</h5>
+                                    <h5 class="modal-title text-default" id="RomansLabel">ရောမဩဝါဒစာ</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2408,7 +2408,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="Corinthians1Label">ကောရိန္သုဩဝါဒစာပဌမစောင်</h5>
+                                    <h5 class="modal-title text-default" id="Corinthians1Label">ကောရိန္သုဩဝါဒစာပဌမစောင်</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2448,7 +2448,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="Corinthians2Label">ကောရိန္သုဩဝါဒစာဒုတိယစောင်</h5>
+                                    <h5 class="modal-title text-default" id="Corinthians2Label">ကောရိန္သုဩဝါဒစာဒုတိယစောင်</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2483,7 +2483,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="GalatiansLabel">ဂလာတိဩဝါဒစာ</h5>
+                                    <h5 class="modal-title text-default" id="GalatiansLabel">ဂလာတိဩဝါဒစာ</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2509,7 +2509,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="EhpesiansLabel">ဧဖက်ဩဝါဒစာ</h5>
+                                    <h5 class="modal-title text-default" id="EhpesiansLabel">ဧဖက်ဩဝါဒစာ</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2535,7 +2535,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="PhillippiansLabel">ဖိလိပ္ပိဩဝါဒစာ</h5>
+                                    <h5 class="modal-title text-default" id="PhillippiansLabel">ဖိလိပ္ပိဩဝါဒစာ</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2557,7 +2557,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="ColossiansLabel">ဓမ္မရာဇဝင်စတုတ္ထစောင်</h5>
+                                    <h5 class="modal-title text-default" id="ColossiansLabel">ဓမ္မရာဇဝင်စတုတ္ထစောင်</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2579,7 +2579,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="Thessalonians1Label">သက်သာလောနိတ်ဩဝါဒစာပဌမစောင်</h5>
+                                    <h5 class="modal-title text-default" id="Thessalonians1Label">သက်သာလောနိတ်ဩဝါဒစာပဌမစောင်</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2602,7 +2602,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="Thessalonians2Label">သက်သာလောနိတ်ဩဝါဒစာဒုတိယစောင်</h5>
+                                    <h5 class="modal-title text-default" id="Thessalonians2Label">သက်သာလောနိတ်ဩဝါဒစာဒုတိယစောင်</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2623,7 +2623,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="Timothy1Label">တိမောသေဩဝါဒစာပဌမစောင်</h5>
+                                    <h5 class="modal-title text-default" id="Timothy1Label">တိမောသေဩဝါဒစာပဌမစောင်</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2649,7 +2649,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="Timothy2Label">တိမောသေဩဝါဒစာဒုတိယစာ/h5>
+                                    <h5 class="modal-title text-default" id="Timothy2Label">တိမောသေဩဝါဒစာဒုတိယစာ/h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2671,7 +2671,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="TitusLabel">တိတုဩဝါဒစာ</h5>
+                                    <h5 class="modal-title text-default" id="TitusLabel">တိတုဩဝါဒစာ</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2692,7 +2692,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="PhilemonLabel">ဖိလေမုန်ဩဝါဒစာ</h5>
+                                    <h5 class="modal-title text-default" id="PhilemonLabel">ဖိလေမုန်ဩဝါဒစာ</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2711,7 +2711,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="HebrewsLabel">ဟေဗြဲဩဝါဒစာ</h5>
+                                    <h5 class="modal-title text-default" id="HebrewsLabel">ဟေဗြဲဩဝါဒစာ</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2746,7 +2746,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="JamesLabel">ယာကုပ်ဩဝါဒစာ</h5>
+                                    <h5 class="modal-title text-default" id="JamesLabel">ယာကုပ်ဩဝါဒစာ</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2769,7 +2769,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="Peter1Label">ရှင်ပေတရုဩဝါဒစာပဌမစောင်</h5>
+                                    <h5 class="modal-title text-default" id="Peter1Label">ရှင်ပေတရုဩဝါဒစာပဌမစောင်</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2792,7 +2792,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="Peter2Label">ရှင်ပေတရုဩဝါဒစာဒုတိယစောင်</h5>
+                                    <h5 class="modal-title text-default" id="Peter2Label">ရှင်ပေတရုဩဝါဒစာဒုတိယစောင်</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2813,7 +2813,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="John1Label">ရှင်ယောဟန်ဩဝါဒစာပဌမစောင်</h5>
+                                    <h5 class="modal-title text-default" id="John1Label">ရှင်ယောဟန်ဩဝါဒစာပဌမစောင်</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2836,7 +2836,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="John2Label">ရှင်ယောဟန်ဩဝါဒစာဒုတိယစောင်</h5>
+                                    <h5 class="modal-title text-default" id="John2Label">ရှင်ယောဟန်ဩဝါဒစာဒုတိယစောင်</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2855,7 +2855,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="John3Label">ရှင်ယောဟန်ဩဝါဒစာတတိယစောင်/h5>
+                                    <h5 class="modal-title text-default" id="John3Label">ရှင်ယောဟန်ဩဝါဒစာတတိယစောင်/h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2874,7 +2874,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="JudeLabel">ရှင်ယုဒဩဝါဒစာ</h5>
+                                    <h5 class="modal-title text-default" id="JudeLabel">ရှင်ယုဒဩဝါဒစာ</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2893,7 +2893,7 @@
                               <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                   <div class="modal-header">
-                                    <h5 class="modal-title" id="RevelationLabel">ဗျာဒိတ်ကျမ်း</h5>
+                                    <h5 class="modal-title text-default" id="RevelationLabel">ဗျာဒိတ်ကျမ်း</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                       <span aria-hidden="true">&times;</span>
                                     </button>
@@ -2940,8 +2940,8 @@
                             
                           </div>
                             <div class="mu-bi">
-                                <a href="#Old-Test"><button>ဓမ္မဟောင်းကျမ်း</button></a>
-                                <a href="#biblemanu"><button>မာတိကာသို့</button></a>
+                                <a href="#Old-Test"><button>ဓမ္မဟောင်းကျမ်း <i class="fas fa-level-up-alt ml-2"></i></button></a>
+                                <a href="#biblemanu"><button>မာတိကာ <i class="fas fa-level-up-alt ml-2"></i></button></a>
                             </div>
                         </div>
                     </div>

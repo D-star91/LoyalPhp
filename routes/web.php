@@ -6,6 +6,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get("/",[Homecontroller::class,"index"]) ->name("home");
 Route::post("/",[Homecontroller::class,"useremail"]) ->name("useremail");
+Route::get("/Registered",[Homecontroller::class,"EmailReg"])->name("registered");
 Route::get("/Bible",[Homecontroller::class,"Bible"]) ->name("bible");
 Route::get("/Book",[Homecontroller::class,"Book"]) ->name("book");
 Route::get("/Contact",[Contactcontroller::class,"Contact"]) ->name("contact");

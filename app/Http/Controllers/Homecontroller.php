@@ -34,4 +34,7 @@ class Homecontroller extends Controller
     function About(){
         return view("About");
     }
+    function EmailReg(){
+        return view("Registered");
+    }
 }

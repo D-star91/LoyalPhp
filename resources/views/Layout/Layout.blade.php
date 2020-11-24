@@ -99,7 +99,7 @@
                 <input type="text" class="form-control form-control-sm" placeholder="Your email"
                   aria-label="Your email" aria-describedby="basic-addon2" name="useremail">
                 <div class="input-group-append">
-                  <button class="btn btn-sm btn-outline-white my-0" type="submit">Subscribe</button>
+                  <a href="{{route('registered')}}" class="btn btn-sm btn-outline-white my-0" type="submit">Subscribe</a>
                 </div>
               </form>
               @if(Session('success'))
@@ -116,7 +116,7 @@
               <!-- Social -->
         <ul class="list-unstyled list-inline text-center mt-5">
           <li class="list-inline-item">
-            <a class="btn-floating btn-fb blue-text mx-3">
+            <a class="btn-floating btn-fb mx-3">
               <i class="fab fa-facebook"></i>
             </a>
           </li>

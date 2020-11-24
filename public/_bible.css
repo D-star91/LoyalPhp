@@ -91,6 +91,22 @@
     background: brown;
     color: cornsilk;
   }
+  .btn-menu{
+    border: 2px solid#3F729B;
+    border-radius: 3px;
+    color:#3F729B;
+    width: 150px;
+    padding: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .btn-menu:hover{
+    transform: scale(1,1);
+    background: #3F729B;
+    color: cornsilk;
+    border: 2px solid#1C2331;
+  }
   .bible-menu1{
     padding: 8px;
   }
@@ -160,18 +176,19 @@
   }
   .btn-g{
     padding: 15px 10px;
+    margin: .5px;
     text-align: center;
     text-decoration: none;
-    border: 1px solid rgb(4, 206, 112);
+    border: 1px solid#3F729B;
     border-radius: 5px;
     width: 75px;
-    color:  rgb(4, 206, 112);
+    color:  #3F729B;
     font-weight: bold;
     font-size: 18px;
   }
   .btn-g:hover{
     color: white;
-    background:  rgb(4, 206, 112);
+    background: #1C2331;
     text-decoration: none;
   }
   .btn-g2{
