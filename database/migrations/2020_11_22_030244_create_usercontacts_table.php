@@ -19,7 +19,6 @@ class CreateUsercontactsTable extends Migration
             $table->string('useremail');
             $table->string('userphone');
             $table->string('usermessage');
-            $table->string('usercheck');
             $table->timestamps();
         });
     }

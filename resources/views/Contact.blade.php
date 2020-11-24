@@ -56,8 +56,8 @@
                         @enderror
                         <!-- Phone -->
                         <div class="md-form mt-3">
-                            <input type="text" id="materialContactFormName" class="form-control" name="username">
-                            <label for="materialContactFormName">Phone</label>
+                            <input type="text" id="materialContactFormPhone" class="form-control" name="userphone">
+                            <label for="materialContactFormPhone">Phone</label>
                         </div>
                         @error("userphone")
                       <p class="text-danger" >{{$message}}</p>

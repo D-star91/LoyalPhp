@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\usercontact;
 use Illuminate\Http\Request;
 
 class Contactcontroller extends Controller
@@ -17,6 +18,12 @@ class Contactcontroller extends Controller
             "usermessage"=>"required",
         ]);
         if($validation){
+            $usercontact=new usercontact();
+            $usercontact->username=$req->username;
+            $usercontact->useremail=$req->useremail;
+            $usercontact->userphone=$req->userphone;
+            $usercontact->usermessage=$req->usermessage;
+            $usercontact->save();
             return back()->with("consuccess","Success! I will get back to you soon.");
 
         }else{
